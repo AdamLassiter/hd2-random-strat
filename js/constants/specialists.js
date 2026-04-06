@@ -408,8 +408,12 @@ const SPECIALISTS = [
   },
   {
     displayName: "The Kriegsman",
-    starterItems: ["Entrenchment Tool", "Concussive Padding armor"],
-    stratagems: [],
+    starterItems: [
+      "Entrenchment Tool",
+      "Concussive Padding armor",
+      "Orbital Gas Strike",
+    ],
+    stratagems: ["Orbital Gas Strike"],
     primaries: [],
     boosters: [],
     secondaries: ["Entrenchment Tool"],
@@ -421,8 +425,12 @@ const SPECIALISTS = [
   },
   {
     displayName: "The Commandant",
-    starterItems: ["Veto", "Concussive Padding armor"],
-    stratagems: [],
+    starterItems: [
+      "Veto",
+      "Concussive Padding armor",
+      "Orbital Railcannon Strike",
+    ],
+    stratagems: ["Orbital Railcannon Strike"],
     primaries: [],
     boosters: [],
     secondaries: ["Veto"],
